@@ -32,7 +32,7 @@ pipeline {
             
             steps {
                 echo 'Running Unit and Integration tests...'
-                bat 'dotnet test --configuration Release --no-build --verbosity normal'
+                bat 'dotnet test --no-build --verbosity normal'
             }
         }
     }
