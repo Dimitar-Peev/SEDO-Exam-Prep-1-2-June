@@ -7,3 +7,4 @@ SoftUniBazar.Tests/bin/
 SoftUniBazar.Tests/obj/
 SoftUniBazar/bin/
 SoftUniBazar/obj/
+*.user
